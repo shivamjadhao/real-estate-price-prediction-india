@@ -268,56 +268,8 @@ For any queries or collaborations, feel free to reach out!
 **Built with ❤️ for the Indian Real Estate Market**
 ```
 
----
 
-
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-venv/
-env/
-*.egg-info/
-dist/
-build/
-
-# Jupyter Notebook
-.ipynb_checkpoints
-
-# Data files (if too large)
-*.csv
-*.xlsx
-data/raw/*.csv
-
-# Models (if too large)
-models/*.pkl
-models/*.h5
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Node
-node_modules/
-npm-debug.log
-yarn-error.log
-
-# Environment variables
-.env
-.env.local
-
-# Build
-build/
-dist/
-
+```
 MIT License
 
 Copyright (c) 2024 [Shivam Jadhao]
@@ -339,7 +291,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-```
 
 
 
@@ -348,8 +299,5 @@ SOFTWARE.
 
 
 Tech Stack: Python | Scikit-learn | XGBoost | React.js | Flask | Plotly
-
-🔗 GitHub: [Your repo link]
-📧 Open to feedback and collaboration opportunities!
 
 #DataScience #MachineLearning #RealEstate #Python #React #Portfolio #DataAnalytics #ML #AI #PropTech #InvestmentAnalysis
